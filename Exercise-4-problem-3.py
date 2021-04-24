@@ -73,6 +73,9 @@ temp_data =  [19, 21, 21, 21, 23, 23, 23, 21, 19, 21, 19, 21, 23, 27, 27, 28, 30
 #     1. Create four variables called `zeros`, `ones`, `twos`, and `threes` 
 #     2. Count and assign to each variable how many times values 0, 1, 2, and 3 are present in the `temp_classes` list and print out the results below. In other words, assign the value of how many time `0` is in the list to the variable `zeros`, and so on. 
 #   
+
+# YOUR CODE HERE
+
 # **TIP**: You might want to consider using a [**count()** function](https://www.tutorialspoint.com/python3/list_count.htm) OR a for loop for this.
 
 # 1. How many 0 values exist in the temp_classes list?
