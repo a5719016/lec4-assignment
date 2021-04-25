@@ -21,6 +21,8 @@
 # - Adding comments in your code and a docstring that explains how to use your `fahr_to_celsius` function (i.e., you should write the purpose of the function, parameters, and returned values)
 
 # YOUR CODE HERE
+def fahr_to_celsius(temp_fahr):
+	return (temp_fahr-32)/1.8
 
 
 # ### Problem 1 tests
@@ -31,14 +33,14 @@
 # 1. What is 48° Fahrenheit in Celsius? 
 
 # DON'T EDIT THESE LINES - start - 
-if assert round(fahr_to_celsius(48), 2) == 8.89
+if round(fahr_to_celsius(48), 2) == 8.89:
     print("Test for fahr_to_celsius(48) passed.") 
 # DON'T EDIT THESE LINES - end -
 
 
 # 2. What about 71° Fahrenheit in Celsius?
 # DON'T EDIT THESE LINES - start - 
-assert round(fahr_to_celsius(71), 2) == 21.67
+if round(fahr_to_celsius(71), 2) == 21.67:
     print("Test for fahr_to_celsius(71) passed.")
 # DON'T EDIT THESE LINES - start - 
 
