@@ -21,7 +21,7 @@ Here, you should create a function called `temp_classifier` that accepts a tempe
 - Adding comments in your code and a docstring that explains how to use your `temp_classifier` function (i.e., you should write the purpose of the function, parameters, and returned values) **(1.0 points)**
 
 ```python
-# YOUR CODE HERE
+# YOUR CODE HERE to define temp_classifier
 ```
 
 **Use** your newly created function to print the answers to the following questions:

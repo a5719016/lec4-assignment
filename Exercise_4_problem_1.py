@@ -7,8 +7,6 @@
 # 
 #   T_{Celsius} = ( T_{Fahrenheit} - 32 ) / 1.8
 # 
-# If everything in your script is working properly the following test case should work:
-# 
 # Notice: Closely follow the instructions! 
 # 
 # Your score on this problem will be based on following criteria:
@@ -24,11 +22,8 @@
 
 # ### Problem 1 tests
 # 
-# Run the code cells below to check your answer. 
-
 # Check that the function produces correct answers for:
 # 1. What is 48° Fahrenheit in Celsius? 
-
 # 2. What about 71° Fahrenheit in Celsius?
 
 # ### Check your code

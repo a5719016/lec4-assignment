@@ -27,30 +27,12 @@ If everything in your script is working properly the following test case should 
 # YOUR CODE HERE
 ```
 
-**Use** your newly created function to print answers to the following questions:
-
-
-```python
-# 1. What is 48° Fahrenheit in Celsius? 
-
-# 2. What about 71° Fahrenheit in Celsius?
-
-```
-
 ### Problem 1 tests
-
-Run the code cells below to check your answer. Note that you are not able to modify the test cells. Your solution is on the right track if you don't see any errors when running these code cells. If you receive an error, you need to change something in the code cells above.
 
 ```python
 # Check that the function produces correct answers for:
 # 1. What is 48° Fahrenheit in Celsius? 
-assert round(fahr_to_celsius(48), 2) == 8.89
-```
-
-
-```python
 # 2. What about 71° Fahrenheit in Celsius?
-assert round(fahr_to_celsius(71), 2) == 21.67
 ```
 
 ### Check your code

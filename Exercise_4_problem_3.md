@@ -73,22 +73,9 @@ temp_data =  [19, 21, 21, 21, 23, 23, 23, 21, 19, 21, 19, 21, 23, 27, 27, 28, 30
     1. Create four variables called `zeros`, `ones`, `twos`, and `threes` 
     2. Count and assign to each variable how many times values 0, 1, 2, and 3 are present in the `temp_classes` list and print out the results below. In other words, assign the value of how many time `0` is in the list to the variable `zeros`, and so on. 
   
-**TIP**: You might want to consider using a [**count()** function](https://www.tutorialspoint.com/python3/list_count.htm) OR a for loop for this.
-
 
 ```python
-# 1. How many 0 values exist in the temp_classes list?
 # YOUR CODE HERE
-#
-# 2. How many 1 values exist in the temp_classes list?
-# YOUR CODE HERE
-#
-# 3. How many 2 values exist in the temp_classes list?
-# YOUR CODE HERE
-#
-# 4. How many 3 values exist in the temp_classes list?
-# YOUR CODE HERE
-#
 
 ```
 
@@ -102,7 +89,11 @@ assert type(temp_classes) == list
 
 Check that required variables exists and print their value (check manually that the answers make sense!):
 
-
+```python
+# CAUTION! Don't edit this line starts
+print(zeros,ones,twos,threes)
+# CAUTION! Don't edit this line ends
+```
 
 ### Check your code
  
@@ -114,3 +105,4 @@ YOUR ANSWER HERE
 #### All done!
 
 That's it! Now you have finished all the problems for Exercise 4! 
+Don't forget to commit & push your change. Otherwise, the instructor cannot see your works.
