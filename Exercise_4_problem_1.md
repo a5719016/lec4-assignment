@@ -24,7 +24,9 @@ If everything in your script is working properly the following test case should 
 
 
 ```python
-# YOUR CODE HERE
+# YOUR CODE 
+def celsius_to_fahr(temp):
+    return 9/5 * temp + 32
 ```
 
 ### Problem 1 tests
@@ -36,6 +38,7 @@ If everything in your script is working properly the following test case should 
 ```
 
 ### Check your code
+
 
 - Make sure you used the given variable names
 - Check that you have added necessary comments to your code
